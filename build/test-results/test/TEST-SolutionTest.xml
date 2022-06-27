@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SolutionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-06-27T10:25:20" hostname="yuanyu-ubuntu" time="0.038">
+  <properties/>
+  <testcase name="climbStairsExamples1()" classname="SolutionTest" time="0.034"/>
+  <testcase name="climbStairsExamples2()" classname="SolutionTest" time="0.001"/>
+  <testcase name="climbStairsExamples3()" classname="SolutionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
